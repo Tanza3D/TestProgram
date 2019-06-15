@@ -48,6 +48,7 @@
     <room>rooms\falling_circles</room>
     <room>rooms\dtfb</room>
     <room>rooms\pac</room>
+    <room>rooms\room6</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
