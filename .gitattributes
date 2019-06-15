@@ -19,4 +19,4 @@
 *.rtf     diff=astextplain
 *.RTF     diff=astextplain
 * linguist-vendored
-*.gmx linguist-vendored=false
+*.gml linguist-vendored=false
