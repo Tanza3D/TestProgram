@@ -3,11 +3,7 @@
   <Configs name="configs">
     <Config>Configs\Default</Config>
   </Configs>
-  <NewExtensions>
-    <extension index="0">extensions\Collision Test</extension>
-    <extension index="1">extensions\RPG Collisions</extension>
-    <extension index="2">extensions\Collisisons</extension>
-  </NewExtensions>
+  <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\sprite0</sprite>
@@ -18,11 +14,9 @@
     <sprite>sprites\spr_physicsball</sprite>
   </sprites>
   <backgrounds name="background"/>
-  <paths name="paths">
-    <path>paths\path0</path>
-  </paths>
+  <paths name="paths"/>
   <scripts name="scripts">
-    <script>scripts\shift_hue.gml</script>
+    <script>scripts\&lt;undefined&gt;.gml</script>
   </scripts>
   <fonts name="fonts">
     <font>fonts\font0</font>
