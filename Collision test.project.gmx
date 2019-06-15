@@ -15,9 +15,7 @@
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
-  <scripts name="scripts">
-    <script>scripts\&lt;undefined&gt;.gml</script>
-  </scripts>
+  <scripts name="scripts"/>
   <fonts name="fonts">
     <font>fonts\font0</font>
     <font>fonts\font1</font>
@@ -41,6 +39,7 @@
     <object>objects\startroom</object>
     <object>objects\obj_player_new</object>
     <object>objects\ghost</object>
+    <object>objects\menucontroller</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\start</room>

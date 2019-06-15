@@ -69,8 +69,8 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>draw_text(5, 5, "FPSTestGMS - Hub Studios ##(N)o falling blocks #(F)alling Blocks #(P)hysics test #Falling blocks (G)ame#Pac(S)quare");
-draw_text(5, 860, "This application is made to test the extremes of #rendering in GMS. ##FPSTestGMS - (c) Hub Studios")
+            <string>draw_text(5, 5, "FPSTestGMS - Hubz ##(N)o falling blocks #(F)alling Blocks #(P)hysics test #Falling blocks (G)ame#Pac(S)quare");
+draw_text(5, 820, "This application is made to test the extremes of #rendering in GMS. ##FPSTestGMS - ©Hubz - www.hub2hub.xyz")
 </string>
           </argument>
         </arguments>
